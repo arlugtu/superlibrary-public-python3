@@ -1,7 +1,7 @@
 # AUTHOR: nmacatangay
 
 import os
-from six.moves import configparser
+import configparser
 
 """
 TO USE THIS, CREATE A "config_files" FOLDER IN YOUR
